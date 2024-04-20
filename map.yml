@@ -1,0 +1,4 @@
+map_name: Wolfy_s_1939
+games:
+- {game_name: 'Wolfy''s 1939,First Strike', file_name: Wolfy_s_1939.xml}
+version: 0
